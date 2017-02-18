@@ -1,0 +1,60 @@
+.header {
+    background-color: #FFB4B0;
+    border: 5px solid black;
+    margin: 0 auto;
+    width: 100%;
+    padding: 30px 0;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5px;
+}
+
+.leftcolum{
+    background-color:  #4DD7FA;
+    border: 5px solid black;
+    flex 1;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 16px;
+}
+
+
+.rightcolum {
+    background-color: #FEFAC0;
+    color: #785616;
+    border: 5px solid black;
+    flex: 3;
+    margin-left: 5px;
+    padding-left: 10px;
+}
+
+
+
+q {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 16px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+div button {
+    display: flex;
+    width: 100%;
+    padding: 5px;
+}
+
